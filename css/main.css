@@ -1,0 +1,17 @@
+h1 {
+  text-align:center;
+}
+
+.container {
+  background-color:red;
+  width: 1200px;
+  height:800px;
+} 
+
+.apple-pie {
+  width:50%;
+  height:500px;
+}
+.recipe {
+  text-align:center;
+}
